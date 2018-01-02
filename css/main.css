@@ -8,4 +8,16 @@
 
 .splash {
   background: linear-gradient(to top left, #D00984,#530060);
+  background-repeat: no-repeat;
+}
+
+.logo-splash {
+  height:30vh;
+  width: 40vh;
+}
+
+.fg-splash {
+  margin-top: 60%;
+  margin-bottom: 62%;
+  margin-left: 15%;
 }

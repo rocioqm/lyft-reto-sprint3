@@ -21,3 +21,40 @@
   margin-bottom: 62%;
   margin-left: 15%;
 }
+
+.start {
+  background-image: url(../assets/images/start-bi.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.logo-white-start {
+  height:10vh;
+  width: 15vh;
+}
+
+.fg-white-start {
+  margin-left: 138px;
+}
+
+.logo-pink-start {
+  height: 30vh;
+  width: 100%;
+}
+
+.fg-pink-start {
+  margin-top:45%;
+}  
+
+.button {
+  margin-top: 165px;
+  margin-left: 85px;
+}
+
+.btn-start {
+  border: 1px solid rgba(15, 190, 82, 0.925);
+  background-color: transparent;
+  color: blue;
+}
